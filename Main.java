@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Output frome java program");
         System.err.println(new Date());
         System.out.println("heelo");
+        
     }
 }
